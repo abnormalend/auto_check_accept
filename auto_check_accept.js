@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Auto Check Accept on Steam
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/abnormalend
 // @version      0.1
 // @description  Automatically add games to your library when clicking a register link for steam.
 // @author       Brent Rogers
