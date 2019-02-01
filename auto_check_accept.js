@@ -2,7 +2,7 @@
 // @name         Auto Check Accept on Steam
 // @namespace    https://github.com/abnormalend
 // @license      MIT
-// @version      0.1
+// @version      0.2
 // @description  Automatically add games to your library when clicking a register link for steam.
 // @author       Brent Rogers
 // @match        https://store.steampowered.com/account/registerkey*
