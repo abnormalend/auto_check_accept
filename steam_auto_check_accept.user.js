@@ -13,15 +13,9 @@
 
 (function() {
     'use strict';
-
-    // Your code here...
-    // maybe the elements are already on the page
     checkThem([].slice.call(document.querySelectorAll('input[type="checkbox"]')));
-
     document.querySelector('#register_btn').click()
-
     function checkThem(nodes) {
         nodes.forEach(function(n) { n.checked = true });
     }
-
 })();
